@@ -3,7 +3,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 .sec-main{
-	background: url(../images/2.jpg) no-repeat 0px;
+	background: url(../2.jpg) no-repeat 0px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover; 
 	background-size:cover;
